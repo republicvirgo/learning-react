@@ -1,0 +1,11 @@
+.list-style {
+	color: #ff0000;
+	margin-left: 50px;
+	font-weight: bold;
+}
+
+.amount {
+	font-weight: bold;
+	padding-left: 10px;
+	cursor: pointer;
+}
